@@ -9,7 +9,7 @@
 # depth perception engine creator
 # depthPerception_setup.py
 #
-# ACKNOWLEDGEMENT: Code in this script is mostly based on the Accompaning repository for the 2022 ICRA paper "Lightweight Monocular Depth Estimation through Guided Decoding" by M.Rudolph, et al.
+# ACKNOWLEDGEMENT: Code in this script is mostly based on the Accompanying repository for the 2022 ICRA paper "Lightweight Monocular Depth Estimation through Guided Decoding" by M.Rudolph, et al.
 # https://github.com/mic-rud/GuidedDecoding
 
 
