@@ -20,13 +20,13 @@ preferred-citation:
   authors:
   - family-names: "Brkljač"
     given-names: "Branko"
-	website: "https://brkljac.github.io/"
+    website: "https://brkljac.github.io/"
   - family-names: "Brkljač"
     given-names: "Milan"
-	orcid: "https://orcid.org/0000-0002-0617-973X"
+    orcid: "https://orcid.org/0000-0002-0617-973X"
   - family-names: "Antić"
     given-names: "Boris"
-	orcid: "https://orcid.org/0000-0003-2504-9479"
+    orcid: "https://orcid.org/0000-0003-2504-9479"
   doi: "10."
   title: "Computer vision gateway for real-time on-site analytics in smart cities and peri-urban agriculture"
   conference:
