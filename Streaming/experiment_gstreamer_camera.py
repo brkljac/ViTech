@@ -14,7 +14,8 @@
 #
 # Enables design of custom stream processing pipelines with hardware accelerated pre-processing, decoding, encoding and inference
 #
-# gstreamer_camera.py
+# stream processing - test script
+# experiment_gstreamer_camera.py
 
 
 
