@@ -1,0 +1,70 @@
+python3 depthPerception_setup.py 
+
+
+FP16
+Namespace(dataset='nyu', evaluate=False, model='GuideDepth-S', num_workers=1, resolution='full', save_results='/home/blab/ViTech/Other/results', test_path='/home/blab/ViTech/Other/depthPerception/TestData', weights_path='/home/blab/ViTech/Other/depthPerception/model/weights/NYU_Full_GuideDepth-S.pth')
+Resolution for Eval: (480, 640)
+Maximum Depth of Dataset: 10.0
+[tensorRT] Starting TensorRT conversion
+
+[tensorRT] Model converted to TensorRT
+[tensorRT] Engine serialized
+
+[PyTorch] Runtime: 0.2513099443912506s
+[PyTorch] FPS: 3.9791501383771553
+
+[tensorRT] Runtime: 0.10147694349288941s
+[tensorRT] FPS: 9.854455264215472
+
+
+
+FP32
+Namespace(dataset='nyu', evaluate=False, model='GuideDepth-S', num_workers=1, resolution='full', save_results='/home/blab/ViTech/Other/results', test_path='/home/blab/ViTech/Other/depthPerception/TestData', weights_path='/home/blab/ViTech/Other/depthPerception/model/weights/NYU_Full_GuideDepth-S.pth')
+Resolution for Eval: (480, 640)
+Maximum Depth of Dataset: 10.0
+[tensorRT] Starting TensorRT conversion
+
+[tensorRT] Model converted to TensorRT
+[tensorRT] Engine serialized
+
+[PyTorch] Runtime: 0.2488430368900299s
+[PyTorch] FPS: 4.018597476134828
+
+[tensorRT] Runtime: 0.1236262547969818s
+[tensorRT] FPS: 8.08889666391814
+
+
+
+FP 16
+Namespace(dataset='nyu', evaluate=False, model='GuideDepth-S', num_workers=1, resolution='half', save_results='/home/blab/ViTech/Other/results', test_path='/home/blab/ViTech/Other/depthPerception/TestData', weights_path='/home/blab/ViTech/Other/depthPerception/model/weights/NYU_Full_GuideDepth-S.pth')
+Resolution for Eval: (240, 320)
+Maximum Depth of Dataset: 10.0
+[tensorRT] Starting TensorRT conversion
+
+[tensorRT] Model converted to TensorRT
+[tensorRT] Engine serialized
+
+[PyTorch] Runtime: 0.10186199307441711s
+[PyTorch] FPS: 9.817204335177616
+
+[tensorRT] Runtime: 0.029688940048217774s
+[tensorRT] FPS: 33.682576689363145
+
+
+FP32
+Namespace(dataset='nyu', evaluate=False, model='GuideDepth-S', num_workers=1, resolution='half', save_results='/home/blab/ViTech/Other/results', test_path='/home/blab/ViTech/Other/depthPerception/TestData', weights_path='/home/blab/ViTech/Other/depthPerception/model/weights/NYU_Full_GuideDepth-S.pth')
+Resolution for Eval: (240, 320)
+Maximum Depth of Dataset: 10.0
+[tensorRT] Starting TensorRT conversion
+
+[tensorRT] Model converted to TensorRT
+[tensorRT] Engine serialized
+
+[PyTorch] Runtime: 0.10162023901939392s
+[PyTorch] FPS: 9.840559416605515
+
+[tensorRT] Runtime: 0.037209285497665404s
+[tensorRT] FPS: 26.87501215423076
+
+
+
