@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you would like to use this software, please consider citing the following publication."
+authors:
+- family-names: "Brkljač"
+  given-names: "Branko"
+  website: "https://brkljac.github.io/"
+- family-names: "Brkljač"
+  given-names: "Milan"
+  orcid: "https://orcid.org/0000-0002-0617-973X"
+- family-names: "Antić"
+  given-names: "Boris"
+  orcid: "https://orcid.org/0000-0003-2504-9479"
+title: "Computer vision gateway for real-time on-site analytics in smart cities and peri-urban agriculture"
+version: 0.9
+doi: "10."
+date-released: 2023-12-11
+url: "https://github.com/brkljac/ViTech/"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Brkljač"
+    given-names: "Branko"
+	website: "https://brkljac.github.io/"
+  - family-names: "Brkljač"
+    given-names: "Milan"
+	orcid: "https://orcid.org/0000-0002-0617-973X"
+  - family-names: "Antić"
+    given-names: "Boris"
+	orcid: "https://orcid.org/0000-0003-2504-9479"
+  doi: "10."
+  title: "Computer vision gateway for real-time on-site analytics in smart cities and peri-urban agriculture"
+  conference:
+  name: "ALFATECH 2024 – Smart cities and modern technologies"
+  collection-title: "ALFATECH 2024 – Smart cities and modern technologies, Belgrade, Serbia, March 15, 2024, Proceedings"
+  start: 1 # First page number
+  end: 12 # Last page number
+  month: 3
+  year: 2024
