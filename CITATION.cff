@@ -11,7 +11,7 @@ authors:
   given-names: "Boris"
   orcid: "https://orcid.org/0000-0003-2504-9479"
 title: "Computer vision gateway for real-time on-site analytics in smart cities and peri-urban agriculture"
-version: 0.9
+version: 1.0
 doi: "10."
 date-released: 2023-12-11
 url: "https://github.com/brkljac/ViTech/"
