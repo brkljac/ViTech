@@ -89,7 +89,9 @@ ___
 ____
 
 
-## If you would like to use this software, please consider citing the following publication:
+### If you would like to use this software, please consider citing the following publication:
 
-- *Brkljač, B., Brkljač, M., Antić, B.* (2024). **Computer vision gateway for real-time on-site analytics in smart cities and peri-urban agriculture**. In Proceedings: 1st International Scientific and Professional Conference - ALFATECH 2024 – Smart cities and modern technologies. Belgrade, March 15, 2024, Vol. 1, 
+<br />
+
+- *Brkljač, B., Brkljač, M., Antić, B.* (2024). **Computer vision gateway for real-time on-site analytics in smart cities and peri-urban agriculture**. In Proceedings: 1st International Scientific and Professional Conference - *ALFATECH 2024 – Smart cities and modern technologies*. Belgrade, March 15, 2024, Vol. 1, 
 [![DOI:number](https://zenodo.org/badge/DOI/number.svg)](doi_link)
