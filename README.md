@@ -30,7 +30,7 @@ ___
 
 <br />
 
-<img src="./readmeFiles/Computer vision gateway - functional.jpg" width=70% height=70%>
+<img src="./readmeFiles/Computer vision gateway - functional.png" width=70% height=70%>
 <! --![Image Link](./readmeFiles/Computer%20vision%20gateway%20-%20functional.png)-->
 
 <br />
