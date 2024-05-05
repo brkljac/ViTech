@@ -30,7 +30,7 @@ ___
 
 <br />
 
-<! --![Image Link](./readmeFiles/Computer%20vision%20gateway%20-%20functional.png)-->
+![Image Link](./readmeFiles/Computer%20vision%20gateway%20-%20functional.png)
 
 <br />
 
